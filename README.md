@@ -1,6 +1,7 @@
-### I'm Jonathan, currently learning how to craft great web stuff. 🤓
+Creative professional working at the intersection of communications, video production and web development.
 
 <!--
+### I'm Jonathan, currently learning how to craft great web stuff. 🤓
 **jonapiron/jonapiron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
